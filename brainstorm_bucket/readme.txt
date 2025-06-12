@@ -2,4 +2,4 @@
 ________________________________________________________________________________________________________________
 
 
-BGT get parkeerspots in the wegdeel dataset, can be filtered out but maybe not complete in private areas
+BGT got parkeerspots in the wegdeel dataset, can be filtered out but maybe not complete in private areas
