@@ -11,9 +11,9 @@ https://captain-whu.github.io/DOTA/index.html -> ready training/validation data,
 
 https://challenge.xviewdataset.org/download-links -> ready training/validation data, further research needed on this
 
-https://www.ml.cmu.edu/research/dap-papers/f18/dap-kaack-lynn.pdf -> simulair paper as to what this project is trying to achieve
+https://www.ml.cmu.edu/research/dap-papers/f18/dap-kaack-lynn.pdf -> simelar paper as to what this project is trying to achieve, (! mentioned xview dataset in page 5 to be inaccurate !)
 
-https://arxiv.org/pdf/1907.07660 -> different method to achieve a simulair goal using remote sensing in combination with object detection
+https://arxiv.org/pdf/1907.07660 -> different method to achieve a similar goal using remote sensing in combination with object detection
 
 https://blog.roboflow.com/yolov5-for-oriented-object-detection -> object oriented method, a model that detects also the orientation of an object, possible when expanding but no primary goal
 
