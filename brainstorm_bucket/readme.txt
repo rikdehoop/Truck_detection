@@ -49,3 +49,11 @@ __________________________________________________________
 9  rapport results, reflect on resulst
 10. conclude if good enouge or model needs adjusting
 
+
+
+
+
+
+
+_
+
