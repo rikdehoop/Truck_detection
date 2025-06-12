@@ -7,7 +7,9 @@ POC testing and exploration phase
 
 
 
-https://captain-whu.github.io/DOTA/index.html -> prepaired training data, further research needed on this
+https://captain-whu.github.io/DOTA/index.html -> ready training/validation data, further research needed on this
+
+https://challenge.xviewdataset.org/download-links -> ready training/validation data, further research needed on this
 
 https://www.ml.cmu.edu/research/dap-papers/f18/dap-kaack-lynn.pdf -> simulair paper as to what this project is trying to achieve
 
