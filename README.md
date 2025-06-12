@@ -13,7 +13,7 @@ https://www.ml.cmu.edu/research/dap-papers/f18/dap-kaack-lynn.pdf -> simulair pa
 
 https://arxiv.org/pdf/1907.07660 -> different method to achieve a simulair goal using remote sensing in combination with object detection
 
-blog.roboflow.com/yolov5-for-oriented-object-detection/ -> object oriented method, a model that detects also the orientation of an object, possible when expanding but no primary goal
+https://blog.roboflow.com/yolov5-for-oriented-object-detection -> object oriented method, a model that detects also the orientation of an object, possible when expanding but no primary goal
 
 
 
