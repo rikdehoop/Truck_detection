@@ -12,6 +12,14 @@ In post processing use lenght of object as filter-criteria to filter out the fan
 
 
 
+
+
+
+
+
+
+
+_________________________________________________________________________________________________________________
 **POC POSSIBLE WORKFLOWS:**
 
 **| POC WORKFLOW if no open data is compatible
