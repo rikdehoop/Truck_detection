@@ -2,6 +2,7 @@
 POC testing and exploration phase
 
 **____________________________________________________**
+
 **Good articles or informational sources (link to)**
 
 
@@ -17,6 +18,7 @@ blog.roboflow.com/yolov5-for-oriented-object-detection/ -> object oriented metho
 
 
 **____________________________________________________**
+
 **Usefull data inlcuding context of what it can be potentially used for**
 
 
